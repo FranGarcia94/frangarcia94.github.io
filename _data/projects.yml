@@ -3,6 +3,16 @@
   link: https://github.com/FranGarcia94/High-Voltage-Tariff-Optimizer
   description: This project aims to develop a program based on evolutionary algorithms that studies the consumption habits of a company and proposes the most appropriate rate.
 
+- name: PDF Handler
+  link: https://github.com/FranGarcia94/PDF-Handler
+  image: /assets/images/pdf_img.jpg
+  description: A GUI to perform different operations with PDF files such as <br></bt>Merge, Extract Sheet/(s), Resize, Add Watermark and Encrypt.
+
+- name: Weather Python 
+  link: https://github.com/FranGarcia94/Weather-Python
+  image: /assets/images/weather_collage_2.jpg
+  description: How to get weather data through Python in different ways.<br></bt> In this repository there are 3 folders that contain files about 3 different ways to get weather data through Python. Knowing the weather data of an area is useful in many situations and if we can get this data through Python, we can handle them very easily to implement them in IoT models, energy efficiency management, home automation and more.
+
 - name: Simple simulator stock storehouse
   link: https://github.com/FranGarcia94/Simulador-simple-stock-almacen
   image: /assets/images/store.jpg
@@ -16,7 +26,7 @@
 - name: 2D AutoCAD projection
   link: https://github.com/FranGarcia94/2D-AutoCAD-projection
   image: /assets/images/2d.png
-  description: Go from an AutoCAD sheet with entities with a z-value other of 0 to a two-dimensional projection by placing those elements on the z-axis value 0.
+  description: How to automate AutoCAD files 1.<br></br>Place all drawing objects at zero elevation. Go from an AutoCAD sheet with entities with a z-value other of 0 to a two-dimensional projection by placing those elements on the z-axis value 0.
 
 - name: Copy bounded area AutoCAD
   link: https://github.com/FranGarcia94/Copy-bounded-area-AutoCAD

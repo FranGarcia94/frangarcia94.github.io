@@ -210,6 +210,20 @@ a.navbar-item.is-active {
         }
     }
 
+    &:hover {
+        #elogo{
+            color: rgb(0, 238, 255);
+            transition: all 0.9s ease-in-out 0s;
+            transform: scale(1.5) rotateX(360deg);
+            margin-right: 5px;
+        }
+        #eword{
+            transition: all 0.9s ease-in-out 0s;
+            transform: translate(-5px);
+        }
+    }
+
+
     .container {
         margin: auto;
         padding: 1.5rem;
@@ -278,7 +292,7 @@ a.navbar-item.is-active {
         margin-bottom: 0.5rem !important;
         display: inline-table;
         &:hover {
-            transform: scale(0.975);
+            transform: scale(0.99);
         }
     }
     .card {
@@ -352,4 +366,18 @@ a.navbar-item.is-active {
             display: inline-block;
         }
     }
+}
+
+
+#elogo{
+    transition: all 0.9s ease-in-out 0s;
+}
+
+#eword{
+    transition: all 0.9s ease-in-out 0s;
+}
+
+#panel{
+    width: 25px;
+    height: 25px;
 }

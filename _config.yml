@@ -2,14 +2,14 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'frangarcia94.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
 # Title of the Site
 title: Francisco García
 # Description of the Site
-description: Personal Website (under construction)
+description: Personal Website
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -39,7 +39,7 @@ dribbble_username:
 spotify_username: 
 
 # Google Analytics
-google-analytics: 
+google-analytics: G-MGTFLH5W5J
 
 # Disqus # Servicio de alojamiento de comentarios de blog
 disqus-shortname: 
@@ -47,16 +47,16 @@ disqus-shortname:
 # Name of the Author
 author-name: Francisco García
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /assets/images/foto_4_2.jpg
 
 # Imágenes para author-image
 # /assets/images/foto_1.jpg
 # https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 
 # 60 Words About the Author
-author-about: Electrical engineer educated at the University of Almería with a specialty in renewable energies. My goal is to contribute to the development of a modern and optimized electrical system where clean energies play a leading role.
+author-about:  
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/FranGarcia94
+author-url: https://www.linkedin.com/in/francisco-jose-garcia-garces/
 
 # SASS
 sass:
