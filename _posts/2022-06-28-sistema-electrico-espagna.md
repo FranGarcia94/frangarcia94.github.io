@@ -72,11 +72,11 @@ A fecha de escribir este post, el sujeto que ha provocado un cambio significativ
 
 A esto hay que sumarle la también subida del precio de los derechos de emisión de CO<sub>2</sub> (Pagar más cuanto más CO<sub>2</sub> se emita a la atmósfera) y los movimientos antinucleares en buena parte de Europa, donde se incluye España.
 
- Esto hace que, si se elimina una de las fuentes de generación más robustas que se complementa genial con la generación de energías renovables, se tenga que suplir su ausencia con centrales de gas.
+Esto hace que, si se elimina una de las fuentes de generación más robustas que se complementa genial con la generación de energías renovables, se tenga que suplir su ausencia con centrales de gas.
 
- Estas centrales como las de cogeneración son necesarias y versátiles pero la idea de la transición energética es emmitir menos CO<sub>2</sub> a la atmósfera y debemos avanzar en la dirección correcta.
+Estas centrales como las de cogeneración son necesarias y versátiles pero la idea de la transición energética es emmitir menos CO<sub>2</sub> a la atmósfera y debemos avanzar en la dirección correcta.
 
- # Resultado
+# Resultado
 Aquí tenéis una gráfica de los precios mensuales medios de España sacados de [OMIE](https://www.omie.es/es/market-results/annual/daily-market/daily-prices?scope=annual&year=2022):
 
 ![omie](/assets/images/resumen_omie.png)
@@ -106,7 +106,7 @@ La segunda gráfica es muy esclarecedora y a pesar de los cambios introducidos e
 # Conclusión
 Como conclusión de este post se puede sacar que las materias primas con las que se genera electricidad juegan un papel primordial en el precio final de la misma y que, por lo tanto, una buena gestión y previsión de las mismas es crucial.
 
-Me gustaría aclarar que este post es meramente informativo y que cualquiera de los temas mencionados podrían ser abordado en decenas de páginas de manera mucho más precisa. 
+Me gustaría aclarar que este post es meramente informativo y que cualquiera de los temas mencionados podrían ser abordados en decenas de páginas de manera mucho más precisa. 
 
 <br>
 
