@@ -5,8 +5,10 @@ post-image: "/assets/images/im_4.jfif"
 description: El sector eléctrico es un conjunto de entidades bien diferenciadas y relativamente complejas. Aquí vamos a resumir solamente ciertos aspectos para comprender tratar de responder a esta pregunta.
 tags:
 - energía
-- información
-- tecnología
+- mercados eléctricos
+- facturas
+- análisis
+- precio
 ---
 En este post se hablará principalmente del sistema español, sin embargo esto es fácilmente extrapolable a la mayoría de países europeos en los que su estructura eléctrica, tanto esquemática como financiera, es similar.
 # Breve introducción.
