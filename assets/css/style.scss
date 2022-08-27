@@ -96,7 +96,7 @@ a.navbar-item.is-active {
         margin: auto 0.75vmax;
 
         &:hover {
-            transform: scale(1.3);
+            transform: scale(1.4);
             filter: opacity(0.75);
         }
     }
@@ -226,7 +226,7 @@ a.navbar-item.is-active {
 
     .container {
         margin: auto;
-        padding: 1.5rem;
+        padding: 1.2rem;
         line-height: 1.25;
 
         .column {
@@ -259,15 +259,17 @@ a.navbar-item.is-active {
         }
     }
 
-    #credits {
-        padding: 0.75rem;
-        font-size: 0.85rem;
 
-        a {
-            text-decoration: underline;
-            font-weight: bolder;
-            color: white;
-        }
+
+}
+
+#credits {
+    padding: 0.75rem;
+    font-size: 0.85rem;
+
+    a {
+        text-decoration: underline;
+        font-weight: bolder;
     }
 }
 
