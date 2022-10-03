@@ -18,15 +18,25 @@
   image: /assets/images/pdf_img.jpg
   description: A GUI to perform different operations with PDF files such as <br></bt>Merge, Extract Sheet/(s), Resize, Add Watermark and Encrypt.
 
-- name: PDF Handler
+- name: PaintingPy
   link: https://github.com/FranGarcia94/PaintingPy
   image: /assets/images/PaintingPy.png
   description: Drawing interface.<br></bt>Made with Python and with an interesting random mode that can create very striking patterns.
 
+- name: Todo list Calendar
+  link: https://github.com/FranGarcia94/ToDo-list-Calendar
+  image: /assets/images/intro.jpg
+  description: Calendar where you can add your task list.<br></bt>- Simple<br></bt>- Useful
+
+- name: Py Screen Recorder
+  link: https://github.com/FranGarcia94/Py-Screen-Recorder
+  image: /assets/images/screen_recorder.jpg
+  description: Simple program to record your computer screen.<br></bt>Small interface with Rec, Pasue, Play and Stop buttons.
+
 - name: Simple simulator stock storehouse
   link: https://github.com/FranGarcia94/Simulador-simple-stock-almacen
   image: /assets/images/store.jpg
-  description: Simple program whose operation is based on the introduction or withdrawal of products on the shelves of a storehouse.
+  description: Program whose operation is based on the introduction or withdrawal of products on the shelves of a storehouse.
 
 - name: Hangman Game
   link: https://github.com/FranGarcia94/Hangman-Game
