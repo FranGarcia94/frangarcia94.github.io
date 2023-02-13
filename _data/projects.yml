@@ -13,6 +13,16 @@
   image: /assets/images/weather_collage_2.jpg
   description: How to get weather data through Python in different ways.<br></bt> In this repository there are 3 folders that contain files about 3 different ways to get weather data through Python. Knowing the weather data of an area is useful in many situations and if we can get this data through Python, we can handle them very easily to implement them in IoT models, energy efficiency management, home automation and more.
 
+- name: Electrical System
+  link: https://github.com/FranGarcia94/Sistema-Electrico
+  image: /assets/images/demanda.jpg
+  description: - PVPC<br></bt>- Energy Demand<br></bt>- Installed Power
+
+- name: Todo list Calendar
+  link: https://github.com/FranGarcia94/ToDo-list-Calendar
+  image: /assets/images/intro.jpg
+  description: Calendar where you can add your task list.<br></bt>- Simple<br></bt>- Useful
+
 - name: PDF Handler
   link: https://github.com/FranGarcia94/PDF-Handler
   image: /assets/images/pdf_img.jpg
@@ -23,15 +33,15 @@
   image: /assets/images/PaintingPy.png
   description: Drawing interface.<br></bt>Made with Python and with an interesting random mode that can create very striking patterns.
 
-- name: Todo list Calendar
-  link: https://github.com/FranGarcia94/ToDo-list-Calendar
-  image: /assets/images/intro.jpg
-  description: Calendar where you can add your task list.<br></bt>- Simple<br></bt>- Useful
-
 - name: Py Screen Recorder
   link: https://github.com/FranGarcia94/Py-Screen-Recorder
   image: /assets/images/screen_recorder.jpg
   description: Simple program to record your computer screen.<br></bt>Small interface with Rec, Pasue, Play and Stop buttons.
+
+- name: Memory Game
+  link: https://github.com/FranGarcia94/Memory-Game
+  image: /assets/images/easy_ingame.jpg
+  description: Nice memory game which is simple but entertaining.<br></bt>Created with Python.
 
 - name: Simple simulator stock storehouse
   link: https://github.com/FranGarcia94/Simulador-simple-stock-almacen
