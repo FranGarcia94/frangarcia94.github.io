@@ -18,7 +18,7 @@
   image: /assets/images/demanda.jpg
   description: -PVPC<br></bt>-Energy Demand<br></bt>-Installed Power...
 
-- name: Todo list Calendar
+- name: Todo-List Calendar
   link: https://github.com/FranGarcia94/ToDo-list-Calendar
   image: /assets/images/intro.jpg
   description: Calendar where you can add your task list.<br></bt>- Simple<br></bt>- Useful
@@ -42,6 +42,11 @@
   link: https://github.com/FranGarcia94/Memory-Game
   image: /assets/images/easy_ingame.jpg
   description: Nice memory game which is simple but entertaining.<br></bt>Created with Python.
+
+- name: ToDo-List Listbox
+  link: https://github.com/FranGarcia94/ToDo-list-Listbox
+  image: /assets/images/todo_list_listbox_image.jpg
+  description: Adaptive ToDo-List made with Python<br></bt>- Add<br></bt>- Tasks.<br></bt>
 
 - name: Simple simulator stock storehouse
   link: https://github.com/FranGarcia94/Simulador-simple-stock-almacen
