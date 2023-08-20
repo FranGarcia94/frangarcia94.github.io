@@ -3,6 +3,11 @@
   link: https://github.com/FranGarcia94/High-Voltage-Tariff-Optimizer
   description: This project aims to develop a program based on evolutionary algorithms that studies the consumption habits of a company and proposes the most appropriate rate.
 
+- name: Language App
+  link: https://github.com/FranGarcia94/LanguagesApp
+  image: /assets/images/languageApp.PNG
+  description: App to help learn a language<br></br>Made with Python.
+
 - name: Solar Panel<br></bt>Estimation
   image: /assets/images/solar_panels.jpg
   link: https://github.com/FranGarcia94/Solar-Panel-Estimation
@@ -67,9 +72,4 @@
   link: https://github.com/FranGarcia94/Copy-bounded-area-AutoCAD
   image: https://user-images.githubusercontent.com/107102754/175131141-0cbc7430-ab94-4edf-b9e2-8d568c54503e.png
   description: Files that copy the area bounded by a polygon and everything inside it, then paste it into a new file.
-  
-- name: Language App
-  link: /assets/images/language_app.jpg
-  image: /assets/images/language_app.jpg
-  description: <br></br>Soon...
   
